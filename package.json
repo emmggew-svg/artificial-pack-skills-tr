@@ -1,0 +1,10 @@
+{
+  "name": "artificial-pack-skills-tr",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Open pack of 30+ Turkish skills for Claude Code and OpenCode",
+  "scripts": {
+    "skills:sync": "node scripts/sync-skills.js",
+    "lint:skills": "node packages/skill-lint/index.js ./skills"
+  }
+}
