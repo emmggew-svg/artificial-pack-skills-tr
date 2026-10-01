@@ -35,7 +35,7 @@ export default async function HomePage() {
       </ol>
 
       <p>
-        <a href="https://github.com">Katkıda bulunun</a>: yeni beceri önerin,
+        <a href="https://github.com/emmggew-svg/artificial-pack-skills-tr">Katkıda bulunun</a>: yeni beceri önerin,
         mevcut açıklamaları iyileştirin veya hata bildirin.
       </p>
 
